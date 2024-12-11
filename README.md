@@ -1,5 +1,39 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anil Singh!
 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anilsingh88/)
+
+## About Me
+<p style="font-size:7px;">
+ I'm a Full Stack Developer passionate about making, breaking, experimenting, developing, and learning about the web. 
+<!-- </p>
+<p>Fun fact : i 01000011 01001111 01000100 01000101  in Binary. </p> -->
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+## Technologies
+ 
+<table>
+<tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Languages</strong></td>
+</tr>
+<tr>
+    <td><img src = "https://skillicons.dev/icons?i=PHP,Codeignitor,Laravel,Wordpress,javascript&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,mongodb" ></td>
+</tr>
+<tr>
+	<td><strong>Cybersecurity&Cloud</strong></td>
+	<td><strong>Tools</strong></td>
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=linux,docker,netlify&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vim,githubactions&theme=dark"></td>
+</tr>
+</table>
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+ 
+
 <!--
 **singhanil221/singhanil221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
