@@ -1,4 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anil Singh!
+<!-- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anil Singh! -->
+<div style="text-align: center;"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&weight=900&size=30&duration=3000&pause=200&color=F6F74E&width=360&lines=Hi%2C+I'm+Anil+Singh%F0%9F%91%8B;Let's+Connect!" />
+</div>
+
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anilsingh88/)
 
