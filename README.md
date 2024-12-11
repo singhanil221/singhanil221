@@ -48,7 +48,7 @@
 <!--
 **![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhanil221&theme=aura_dark) -->
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+<!-- <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>-->
 
 <!--
 **singhanil221/singhanil221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
