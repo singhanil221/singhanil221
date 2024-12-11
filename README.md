@@ -20,7 +20,7 @@
 <tr>
     <td><img src = "https://skillicons.dev/icons?i=php,codeigniter,laravel,wordpress,javascript&theme=dark"></td>
     <td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,mongodb" ></td>
-    <td><img src = "https://skillicons.dev/icons?i=aws,facebook,google,restfull,soap,zapier,pabbly" ></td>
+    <td><img src = "https://skillicons.dev/icons?i=aws,facebook,google,rest,soap,zapier,pabbly" ></td>
 </tr>
 <tr>
 	<td><strong>Cybersecurity&Cloud</strong></td>
